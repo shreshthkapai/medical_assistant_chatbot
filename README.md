@@ -1,6 +1,6 @@
 # Medical Assistant Chatbot
 
-This project implements a Medical Assistant Chatbot using OpenAI's GPT-4-o mini model. The chatbot provides users with information about medical conditions and offers assistance based on user queries.
+This project implements a Medical Assistant Chatbot using OpenAI's GPT-4o mini model. The chatbot provides users with information about medical conditions and offers assistance based on user queries.
 
 ## Features
 
