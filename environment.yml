@@ -1,4 +1,4 @@
-name: projects
+name: medical_assistant_chatbot
 channels:
   - conda-forge
   - defaults
