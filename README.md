@@ -40,7 +40,7 @@ Run the main application:
 python main.py
 ```
 
-Interact with the chatbot through the command line interface.
+A link for the gradio interface wipl be genrated. Open the link in your preferred browser to interact with the chatbot.
 
 ## License
 
